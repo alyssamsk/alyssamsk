@@ -3,7 +3,7 @@
 - 🔭 Atualmente estudo Estatística
 - 🌱 Estudando: Ciência de Dados
 
-Atualmente sou estudante de Estatística .
+Atualmente sou estudante de Estatística :mortar_board:. Sou entusiasta por ciência de dados. Estou sempre buscando aprender, adoro explorar novas técnicas.  
 
 ### Ferramentas
 
